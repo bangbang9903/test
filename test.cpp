@@ -10,5 +10,6 @@ int main(void)
         cout<<"hihi"<<endl;
         cout<<"hello world";
         cout<<"안녕하세요"<<endl;
+        cout<<"몰라 뽀삐~"<<endl;
     }
 }
