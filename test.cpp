@@ -8,5 +8,6 @@ int main(void)
     for(int i=0;i<a;i++)
     {
         cout<<"hihi"<<endl;
+        cout<<"hello world";
     }
 }
